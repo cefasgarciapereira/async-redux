@@ -1,0 +1,1 @@
+export { default as jsonPlaceholder } from './jsonPlaceholder';
