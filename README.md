@@ -1,8 +1,11 @@
-# Getting Started with Create React App
+# Async Redux
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is the result of a study on react conducted during the course ["Modern React With Redux"](https://www.udemy.com/course/react-redux/). The main objective of this project is to show the structure and functioning of a project in React.js using Redux with asynchronous calls.
+
 
 ## Available Scripts
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 In the project directory, you can run:
 
